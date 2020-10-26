@@ -1,6 +1,6 @@
 # Deep-Feature-preserving-Normal-Estimation-for-Point-Cloud-Filtering
 
-Our source code is made available. Please first download the compressed package of "source code.rar" according to the link in "source code".
+Our source code is made available. Please first download the compressed package of "SPM2020_code.rar" according to the link in "source code".
 
 Our code is implemented by Pytorch, and the detailed steps of running it are listed below:
 
